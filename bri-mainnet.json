@@ -3,12 +3,12 @@
 		"title": "BRI Network",
 		"url": "https://briscan.io",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/briscan/frontend_info/master/mainnet.svg"
+		"icon": "https://raw.githubusercontent.com/briscan/frontend_info/main/mainnet.svg"
 	},
 	{
 		"title": "BRI Network Testnet",
 		"url": "https://testnet-explorer.briscan.io",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/briscan/frontend_info/master/mainnet.svg"
+		"icon": "https://raw.githubusercontent.com/briscan/frontend_info/main/mainnet.svg"
 	}
 ]
